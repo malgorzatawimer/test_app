@@ -45,9 +45,9 @@ import streamlit as st
 import geometry
 import base64
 
-main_bg = "C:\\users\\malgorzata.wimer\\Downloads\\day6\\day6\\images\\cookies.png"
+main_bg = "images/cookies.png"
 main_bg_ext = "png"
-side_bg = "C:\\Users\\malgorzata.wimer\\Desktop\\images\\bg-sidebar.jpeg"
+side_bg = "images/bg-sidebar.jpeg"
 side_bg_ext = "jpeg"
 
 # file = open(main_bg)
