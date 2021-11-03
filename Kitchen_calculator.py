@@ -42,7 +42,6 @@ def teaspoon(a):
 
 
 import streamlit as st
-import geometry
 import base64
 
 main_bg = "images/cookies.png"
